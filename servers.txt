@@ -1,0 +1,13 @@
+atlanta.voip.ms
+chicago.voip.ms
+dallas.voip.ms
+houston.voip.ms
+losangeles.voip.ms
+newyork.voip.ms
+seattle.voip.ms
+tampa.voip.ms
+montreal2.voip.ms
+toronto2.voip.ms
+montreal.voip.ms
+toronto.voip.ms
+london.voip.ms
